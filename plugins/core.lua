@@ -1,5 +1,5 @@
 local help_text = [[
-*Beyond Messeger Bot Commands :*
+* Messeger Bot Commands :*
 
 */id*
 _Show Your And Chat ID_
@@ -73,30 +73,28 @@ _Send A Message To All User_
 */fwdtoall* `[reply]`
 _Forward A Message To All User_
 
-[Beyond Team Channel](Telegram.Me/BeyondTeam)
+[Tg Channel](Telegram.Me/TG_PLUS)
 _Good Luck_ *:D*
 
 ]]
 
 local mem_help = [[
-*Welcome To Beyond Messenger Bot :*
+*Help To  Messenger Bot :*
 
 */id*
 _Show Your And Chat ID_
 
-*/beyond*
-_Show About Bot_
 
-[Beyond Team Channel](Telegram.Me/BeyondTeam)
+[Tg  Channel](Telegram.Me/BeyondTeam)
 _Good Luck_ *:D*
 
 ]]
 local profile_text = [[
-@BeyondTeam
+@ tg_plud
 ]]
 
 local keyboard = {{"📬پروفایل"},{"🌟کانال ما","🎯اعضای تیم"},{"🔖راهنما","🚦اطلاعات چت"}}
-local start_key = {{{text="👤ارتباط با ما",url="https://telegram.me/SoLiD"}}}
+local start_key = {{{text="👤ارتباط با ما",url="https://telegram.me/MRhelpplus"}}}
 
 local function getindex(t,id) 
 for i,v in pairs(t) do 
